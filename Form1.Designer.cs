@@ -86,6 +86,7 @@ namespace library_parser
 
         private void Button1_Click(object sender, EventArgs e)
         {
+            listBox1.Items.Clear();
             string[] books = new string[3]
              {
                 "О.С. Габриелян - Учебник по химии 8 класс",
@@ -109,17 +110,18 @@ namespace library_parser
                 {
                     ListPars[0] = "Кажется, в нашей библиотеке нет книг, соответствующих Вашему запросу";
                 }
-                //i++;
             }
             int a = 0;
            
 
-                while (a<3 )          
+            while (a < ListPars.Length)          
             {
-
+                if (ListPars[a] != null)
+                {
                     listBox1.Items.Add(ListPars[a].ToString());
-                    a++;
                 }
+                a++;
+            }
             
         }
 
