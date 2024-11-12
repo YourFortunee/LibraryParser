@@ -1,0 +1,10 @@
+D:\учёба\МДК0101\library parser\obj\Debug\library parser.csproj.AssemblyReference.cache
+D:\учёба\МДК0101\library parser\obj\Debug\library_parser.Form1.resources
+D:\учёба\МДК0101\library parser\obj\Debug\library_parser.Properties.Resources.resources
+D:\учёба\МДК0101\library parser\obj\Debug\library parser.csproj.GenerateResource.cache
+D:\учёба\МДК0101\library parser\obj\Debug\library parser.csproj.CoreCompileInputs.cache
+D:\учёба\МДК0101\library parser\bin\Debug\library parser.exe.config
+D:\учёба\МДК0101\library parser\bin\Debug\library parser.exe
+D:\учёба\МДК0101\library parser\bin\Debug\library parser.pdb
+D:\учёба\МДК0101\library parser\obj\Debug\library parser.exe
+D:\учёба\МДК0101\library parser\obj\Debug\library parser.pdb
